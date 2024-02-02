@@ -1,13 +1,12 @@
 
-**Certainly! I've made a few grammatical improvements for clarity:**
-
 **Old-Portfolio-By-Van with To-Do-List, Login & Create Account built using vanilla HTML, CSS, Javascript, PHP & MySql (Xampp)**
 
-**Project Overview:
-**
+**Project Overview:**
+
 - This is the first portfolio I created when I started my web development career back in December 2022, showcasing a To-Do List feature.
 - The design might seem a bit tacky since I used only vanilla CSS for this project.
 - The portfolio includes sections for my profile, portfolio, and contact information.
+- Also added some of my codes for tictactoe build using c++, photography and graphic design.
 - However, I didn't deploy it at that time because I utilized PHP and MySQL.
 - When I attempted to deploy it, I was hired as an Associate Software Engineer and received training in other programming languages.
 - Please watch the video as a demo for this project.
